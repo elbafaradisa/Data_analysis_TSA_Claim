@@ -18,7 +18,7 @@ Untuk menyelesaikan permasalahan tersebut, sebelum melakukan analisis, saya mela
 
 Setelah dilakukan analisis, berikut sejumlah *insight* yang telah diperoleh:
 * Tahun 2002 merupakan tahun dengan jumlah klaim penumpang yang paling sedikit dan tahun 2004 merupakan tahun dengan jumlah klaim tertinggi. Kemudian setelah tahun 2004, jumlah klaim yang diajukan penumpang cenderung menurun.
- * Bandara yang paling banyak menerima klaim dari penumpang adalah Los Angeles International Airport (LAX), kemudian diikuti oleh John F. Kennedy International Airport (JFK). Bandara dengan jumlah klaim di atas rata-rata banyak yang termasuk ke dalam list bandara tersibuk di Amerika Serikat.
+ * Bandara yang paling banyak menerima klaim dari penumpang adalah Los Angeles International Airport (LAX), kemudian diikuti oleh John F. Kennedy International Airport (JFK). Bandara dengan jumlah klaim di atas rata-rata banyak yang termasuk ke dalam bandara tersibuk di Amerika Serikat.
  * Jenis klaim yang paling banyak dilaporkan adalah **Passenger Property Loss** dan **Property Damage**. Kedua jenis klaim tersebut juga merupakan jenis klaim terbanyak di bandara-bandara yang memiliki jumlah klaim paling banyak.
  * Titik lokasi yang paling banyak menerima klaim adalah **Checked Baggage** dan **Checkpoint**. Kedua titik lokasi tersebut juga merupakan titik lokasi yang paling banyak menerima laporan klaim di bandara-bandara yang memiliki jumlah klaim paling banyak.
 
