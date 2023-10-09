@@ -23,5 +23,8 @@ Setelah dilakukan analisis, berikut sejumlah *insight* yang telah diperoleh:
  * Titik lokasi yang paling banyak menerima klaim adalah **Checked Baggage** dan **Checkpoint**. Kedua titik lokasi tersebut juga merupakan titik lokasi yang paling banyak menerima laporan klaim di bandara-bandara yang memiliki jumlah klaim paling banyak.
 
 
+## Story Tableau
+[TSA Claim Story](https://public.tableau.com/views/TSAClaimsStory/TSAClaimsStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 # Elba Faradisa
 # JC Data Science and Machine Learning
